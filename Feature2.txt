@@ -1,0 +1,9 @@
+Void Mimamamemima() // M1
+{
+	10500
+}
+
+Void AyudaDiosito() //M2
+{
+	jeje
+}
