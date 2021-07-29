@@ -1,0 +1,24 @@
+Void Llorar()
+{
+	StartLlorar()
+	if (depresion)
+	{
+		MentalBreakdown();    
+	}
+}
+
+private float Depresion
+{
+	if (triste){return true}:
+	else return false:
+}
+
+Void PedirAyuda()
+{
+	Console.WriteLine("help");
+}
+
+Void RezarPorqueFuncioneElPush()
+{
+	Console.WriteLine("Amen")
+}
